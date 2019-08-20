@@ -3,13 +3,12 @@ Jquery:
 https://jquery.com/
 
 /*
- * jQuery One Page Nav Plugin
- * http://github.com/davist11/jQuery-One-Page-Nav
- *
- * Copyright (c) 2010 Trevor Davis (http://trevordavis.net)
- * Dual licensed under the MIT and GPL licenses.
- * Uses the same license as jQuery, see:
- * http://jquery.org/license
+ jQuery One Page Nav Plugin
+ http://github.com/davist11/jQuery-One-Page-Nav
+ Copyright (c) 2010 Trevor Davis (http://trevordavis.net)
+  Dual licensed under the MIT and GPL licenses.
+  Uses the same license as jQuery, see:
+ http://jquery.org/license
  
  /*! WOW - v1.1.3 - 2016-05-06
 * Copyright (c) 2016 Matthieu Aussaguel;*
