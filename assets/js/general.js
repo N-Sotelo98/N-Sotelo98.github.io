@@ -1,1 +1,0 @@
-$(document).ready(function(){$("a.mobile-nav").click(function(){$("nav").slideToggle("fast")})});
